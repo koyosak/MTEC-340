@@ -1,1 +1,1 @@
-## Paddles and ball movement
+## Paddle and ball movement
