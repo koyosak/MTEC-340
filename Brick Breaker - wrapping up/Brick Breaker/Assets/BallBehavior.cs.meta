@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ebad116e9e704993b15b21f7c4f5338
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Wall: {fileID: 8300000, guid: 673bacd2c09d2421d93867cb089135c4, type: 3}
+  - Brick: {fileID: 8300000, guid: e1d46f33cacee4f719ac2b8c7b7b6faa, type: 3}
+  - Paddle: {fileID: 8300000, guid: 184e0ab6fee914d0b9647b2810c02904, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
